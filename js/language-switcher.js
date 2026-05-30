@@ -123,7 +123,7 @@ const translations = {
         // Fähigkeiten-Sektion
         "skills_title": "Meine Fähigkeiten",
         "technical_skills": "Technische Fähigkeiten",
-        "skill_ai_tools": "KI-Tools (GPT, Grok, DeepSeek, Manus, Bild-Modelle auf HF)",
+        "skill_ai_tools": "KI-Tools & Generative KI (GPT, Grok, DeepSeek, Manus, Bild-Modelle, MiniMax)",
         "skill_gradio": "Gradio (UI-Erstellung für ML-Modelle)",
         "skill_vector": "Vektordatenbank (Vektor-Embeddings, Ähnlichkeitssuche)",
         "skill_python": "Python",
@@ -411,7 +411,7 @@ const translations = {
         // Fähigkeiten-Sektion
         "skills_title": "My Skills",
         "technical_skills": "Technical Skills",
-        "skill_ai_tools": "AI Tools (GPT, Grok, DeepSeek, Manus, Image Models on HF)",
+        "skill_ai_tools": "AI Tools & Generative AI (GPT, Grok, DeepSeek, Manus, Image Models, MiniMax)",
         "skill_gradio": "Gradio (UI Creation for ML Models)",
         "skill_vector": "Vector Database (Vector Embeddings, Similarity Search)",
         "skill_python": "Python",
